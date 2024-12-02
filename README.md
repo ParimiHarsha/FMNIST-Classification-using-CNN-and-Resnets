@@ -1,4 +1,4 @@
-# ECEN758-FashionMNIST_Classification
+# Pattern Recognition - FashionMNIST_Classification
 In this project, we developed Machine Learning model XGBoost and Deep Learning model Convolutional Neural Network to classify articles of clothing using the FashionMNIST dataset. 
 
 Please follow the below steps to set up the virtual environment, install all the required dependencies and run the python notebook
